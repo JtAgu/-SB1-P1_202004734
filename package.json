@@ -1,0 +1,31 @@
+{
+  "name": "-sb1-p1_202004734",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JtAgu/-SB1-P1_202004734.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JtAgu/-SB1-P1_202004734/issues"
+  },
+  "homepage": "https://github.com/JtAgu/-SB1-P1_202004734#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-myconnection": "^1.0.4",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "oracledb": "^5.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
